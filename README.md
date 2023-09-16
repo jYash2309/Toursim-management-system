@@ -1,0 +1,2 @@
+# Toursim-management-system
+This online tourism management system was programmed using php and mysql as the database. Implemented secure authentication and authorization processes to ensure data integrity and user privacy.Allow tourists to create and manage their profiles, providing personal information and preferences. Enabling profile editing, password resets, and profile picture uploads using PHP and update the MySQL database accordingly.
